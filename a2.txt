@@ -1,1 +1,2 @@
-archivo2 modif 2
+
+gitarchivo2 otra modificacion
